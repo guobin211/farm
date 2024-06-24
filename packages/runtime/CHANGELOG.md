@@ -1,5 +1,11 @@
 # @farmfe/runtime
 
+## 0.12.0
+
+### Minor Changes
+
+- 58b256e: runtime bundle
+
 ## 0.11.1
 
 ### Patch Changes
